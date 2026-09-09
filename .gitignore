@@ -86,6 +86,9 @@ AGENTS.md
 session.md
 opencode.json
 
+# CodeGraph local code index (generated per machine; methodology: docs/codegraph-methodology.md)
+.codegraph/
+
 # Build logs
 *.log
 build_*.log

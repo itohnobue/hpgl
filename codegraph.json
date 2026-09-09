@@ -1,0 +1,6 @@
+{
+  "deprioritize": [
+    "solved_problems_book/",
+    "sample-scripts/"
+  ]
+}
